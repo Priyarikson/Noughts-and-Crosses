@@ -1,9 +1,11 @@
 .row div {
     padding: 10px;
     border: 1px solid black;
-    height: 30px;
-    width: 30px;
+    height: 100px;
+    width: 100px;
     float: left;  
+    text-align: center;
+    font-size: 100px;
 }
 .row {
     clear:both;
