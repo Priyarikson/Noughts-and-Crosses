@@ -1,3 +1,8 @@
+![pic1](pic1.png)
+![pic2](pic2.png)
+
+
+
 return---to return from a function means to leave it and go back to the piece of code that called it.A function normally returns when it reaches the end of the final statement in the function body.but if you use the return keyword,it is possible to leave the function early.
 
 ternary operator---condition ? then : otherwise;
